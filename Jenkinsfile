@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/vikasreddy828/MavenMigration.git'
+                git 'https://github.com/vikasreddy828/Tomcat.git'
             }
         }
 
